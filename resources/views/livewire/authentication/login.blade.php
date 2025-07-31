@@ -3,7 +3,7 @@
     <div class="row h-100">
       <div class="col-lg-5 col-12">
         <div id="auth-left">
-          <h1 class="auth-title">Log in.</h1>
+          <h5 class="auth-title">Kelola Kas - SMK 1 Kobi</h5>
           <p class="auth-subtitle mb-5">Log in untuk melanjutkan ke dalam dashboard.</p>
 
           @if (session('error'))
